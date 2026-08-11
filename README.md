@@ -4,18 +4,18 @@
                     -..........-.         .                            
                   .......... .....-.   .                               
                .. ..     .  ..........       .                         
-               .   .        .......-.-.                                            Hello There!!
-           .  ..           .--.....-.  .                                           My name is Muhannad Mahfouz El-Shahiedy 
-                    . ..--++++--..             .         .. .                      Computer & Systems Engineering Student 
-                  ...--++++++#####+-.....      .                                   Current Domain: Embedded Systems  
-             .  .--+++##############+-...      .                                   Programming Lang: Python, C, Embedded C, Java, SQLite
-...            .--+##################+. .            .                             Spoken: English, Arabic
-.....         .--++++#######+---++++##-..       .  ...                 
-....--..       ........-+###+----++++#+-.      ..  ..                  
-....-#+..        ---+++-.    +---+++#++-.    ....  ...  .              
-..-.......      ---.--+--.##-##++####+####-- ....  ...                 
-... -....      .--+-++++-.+#######+#+#####+- ...  ....                 
-.......    ... .-++++++-.-+########+#######.  ........ ................
+               .   .        .......-.-.                                 Hello There!
+           .  ..           .--.....-.  .                                My name is Muhannad Mahfouz El-Shahiedy 
+                    . ..--++++--..             .         .. .           20 yrs Undergraduate Computer & System Engineer
+                  ...--++++++#####+-.....      .                        Current Domein: Embedded Systems Engineer  
+             .  .--+++##############+-...      .                         Technical Skills: 
+...            .--+##################+. .            .                  | Programming Languages: C, C++, Java (Core, JDBC), Python, Embedded C 
+.....         .--++++#######+---++++##-..       .  ...                  | Embedded & Hardware Automation: AVR Interfacing
+....--..       ........-+###+----++++#+-.      ..  ..                   | Software Interfaces & Databases: JavaFX Desktop Architecture, SQLite Relational Database
+....-#+..        ---+++-.    +---+++#++-.    ....  ...  .               | Data Analytics & BI: Microsoft Power BI, Tableau, Excel, Data Governance
+..-.......      ---.--+--.##-##++####+####-- ....  ...                  | Engineering Tools & Concepts: MATLAB, Figma UI Design, Prompt Engineering, Memory Management 
+... -....      .--+-++++-.+#######+#+#####+- ...  ....                  --------------------------------------------------------------------------
+.......    ... .-++++++-.-+########+#######.  ........ ................  Spoken: English, Arabic
 ....        .-----+--++--.--+-+############   .--............ .........
 ..   .      .--..---++++---+##############+  ..---.... ...             
 --..  .      .....----+---+##++#########+.. .---+--....-...............
