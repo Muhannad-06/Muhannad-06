@@ -22,8 +22,8 @@
 -----..... ........-----------++#######+    ..+####+--....                 │   ├── 📂 ATmega32-BareMetal-Drivers
 +---..........    ..--------++#######++#.   .-########+-...                │   │   ├── MCAL: DIO/GPIO, Timers, ADC, UART, SPI, I2C (TWI), Interrupts
 ++++-----....  - .....----++#######+--+#.   .-+######+-.....               │   │   └── HAL: LCD (4/8-bit), Keypad, 7-Segment, Sensors (LM35, LDR, DHT11)
-+++++-++--.-.   ........-------------+##-   ..--+###+--....                │   ├── 📂 Dual-Moded-Robotic-Car [🏆 1st Place Winner]
-+#####++---....     ....----------++#####--...+++###-......                │   │   ├── Modes: Autonomous PID Line Tracking & Wireless Manual Override
++++++-++--.-.   ........-------------+##-   ..--+###+--....                │   ├── 📂 IEEE-CUSB Nightcrawler [🏆 1st Place Winner]
++#####++---....     ....----------++#####--...+++###-......                │   │   ├── Modes: Autonomous PID Line Tracking & Wireless Manual Billiard Control
 ########+--...   .. ..---------++++#######+ .--#+##+++-....                │   │   └── Control & Actuation: Checkpoint Logic, L298N Drivers, Servo Mechanism
 #########+---...    ---------+++++########## ...----++.                    │   ├── 📂 Autonomous-PID-Robotic-Car
 ########+--.....   -+---------+++############+..--....                     │   │   ├── Modes: Line Follower, Ultrasonic Obstacle Avoidance, Manual Control
