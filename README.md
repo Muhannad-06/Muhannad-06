@@ -34,7 +34,7 @@
   ...  ......    .-#++##########++++############- .............--.....     ├── 🖥️ Domain: Systems Programming & Desktop Applications
  .............     .-##+#########################. .......   ...........   │   ├── 📂 Hospital-Management-System
 .......  ....      ..###+#########-..-#########-.            .. .. ..  .   │   │   ├── UI/UX: JavaFX, FXML, Scene Builder
-......   ....      ...-###+####-.-----.+#######..            . ...          │   │   ├── Architecture: MVC Pattern, Object-Oriented Programming (OOP)
+......   ....      ...-###+####-.-----.+#######..            . ...         │   │   ├── Architecture: MVC Pattern, Object-Oriented Programming (OOP)
 ......  ...            -####+#+..------++#####-              . ..          │   │   └── Database: SQLite Local Relational Persistence
  ....                    .+#####+...---+#######      .    ....  .          │   ├── 📂 Digital-Logic-Gate-Simulator
      .                    .#####+-..--+######             .  ..            │   │   ├── Canvas Rendering & Drag-and-Drop Node Graph
@@ -44,7 +44,7 @@
                                .##...----+#   ..        .   .              │        └── Custom Container Structure & Data Security Mechanisms
                                 -#...------   ...          .               |
                                  #-..----.    ....                         ├── 📊 Domain: Data Analytics & Business Intelligence
-                                  +..---..   ....                          │   └── 📂 Telecom-Customer-Churn-BI
+                                  +..---..   ....                          │   └── 📂 Telecom-Customer-Churn-BI  [🏆 1st Place Winner Nation Wide]
                       .....        ...--.      .         .                 │        ├── Data Analysis, ETL & Data Modeling (DEPI Capstone)
                         .....        .....    ..                           │        └── DAX Calculations, Churn Risk Metrics, Interactive Dashboard
                            ...      .....   ..                             |
