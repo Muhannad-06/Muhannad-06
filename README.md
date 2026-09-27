@@ -39,7 +39,7 @@
  ....                    .+#####+...---+#######      .    ....  .          │   ├── 📂 Digital-Logic-Gate-Simulator
      .                    .#####+-..--+######             .  ..            │   │   ├── Canvas Rendering & Drag-and-Drop Node Graph
                             -####+...-+#####-      .         .             │   │   └── Real-time Logic Propagation & Dynamic Truth Table Generator
-                             .####...--+####.  ..  .     .   .             │   └── 📂 C-Binary-Archiver-Encryption
+                             .####...--+####.  ..  .     .   .             │   └── 📂 C-Binary-Archiver-Encryption ( Cryptos )
                               .###..-.--+##-   ...        .                │        ├── Low-Level Binary File I/O & Little-Endian Byte Serialization
                                .##...----+#   ..        .   .              │        └── Custom Container Structure & Data Security Mechanisms
                                 -#...------   ...          .               |
