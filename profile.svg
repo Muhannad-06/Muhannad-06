@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="790" viewBox="0 0 1020 790">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; }
+    .ascii {
+      font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace;
+      font-size: 10.5px;
+      fill: #38bdf8;
+      white-space: pre;
+    }
+    .text {
+      font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace;
+      font-size: 13px;
+      white-space: pre;
+    }
+    .greeting { fill: #58a6ff; font-weight: bold; font-size: 15px; }
+    .bio { fill: #e6edf3; }
+    .muted { fill: #8b949e; }
+    .divider { fill: #30363d; }
+    .proj-header { fill: #f59e0b; font-weight: bold; font-size: 14px; }
+    .proj-title { fill: #ffaa00; font-weight: bold; }
+    .proj-detail { fill: #fb923c; }
+  </style>
+
+  <rect class="bg" x="1" y="1" width="1018" height="788" rx="10" />
+
+  
+  <text class="ascii" x="24" y="30" xml:space="preserve">
+<tspan x="24" dy="0">                         .......</tspan>
+<tspan x="24" dy="12">                    -..........-.         .</tspan>
+<tspan x="24" dy="12">                  .......... .....-.   .</tspan>
+<tspan x="24" dy="12">                .. ..     .  ..........       .</tspan>
+<tspan x="24" dy="12">                .   .        .......-.-.</tspan>
+<tspan x="24" dy="12">            .  ..            .--.....-.  .</tspan>
+<tspan x="24" dy="12">                     . ..--++++--..             .         .. .</tspan>
+<tspan x="24" dy="12">                  ...--++++++#####+-.....      .</tspan>
+<tspan x="24" dy="12">             .  .--+++##############+-...      .</tspan>
+<tspan x="24" dy="12">...            .--+##################+. .            .</tspan>
+<tspan x="24" dy="12">.....         .--++++#######+---++++##-..       .   ...</tspan>
+<tspan x="24" dy="12">....--..       ........-+###+----++++#+-.      ..  ..</tspan>
+<tspan x="24" dy="12">....-#+..        ---+++-.    +---+++#++-.    ....  ...  .</tspan>
+<tspan x="24" dy="12">..-.......     ---.--+--.##-##++####+####-- ....  ...</tspan>
+<tspan x="24" dy="12">... -....      .--+-++++-.+#######+#+#####+- ...  ....</tspan>
+<tspan x="24" dy="12">.......    ... .-++++++-.-+########+#######.  ........ ................</tspan>
+<tspan x="24" dy="12">....        .-----+--++--.--+-+############   .--............ .........</tspan>
+<tspan x="24" dy="12">..   .      .--..---++++---+##############+  ..---.... ...</tspan>
+<tspan x="24" dy="12">--..  .      .....----+---+##++#########+.. .---+--....-...............</tspan>
+<tspan x="24" dy="12">---.. ......  .--..----------++++#######-.. .---+###..................</tspan>
+<tspan x="24" dy="12">-----..... ........-----------++#######+    ..+####+--....</tspan>
+<tspan x="24" dy="12">+---..........    ..--------++#######++#.   .-########+-...</tspan>
+<tspan x="24" dy="12">++++-----....  - .....----++#######+--+#.   .-+######+-.....</tspan>
+<tspan x="24" dy="12">+++++-++--.-.   ........-------------+##-   ..--+###+--....</tspan>
+<tspan x="24" dy="12">+#####++---....     ....----------++#####--...+++###-......</tspan>
+<tspan x="24" dy="12">########+--...   .. ..---------++++#######+ .--#+##+++-....</tspan>
+<tspan x="24" dy="12">#########+---...    ---------+++++########## ...----++.</tspan>
+<tspan x="24" dy="12">########+--.....   -+---------+++############+..--....</tspan>
+<tspan x="24" dy="12">-+-++#++--.....    -++--------+++##############-.....-----...</tspan>
+<tspan x="24" dy="12">-+--+++++-...    .--+#+------++++##############+....----.------...   ...</tspan>
+<tspan x="24" dy="12">--.--.------   . #+-++####---++++++++##########+-..........------... .</tspan>
+<tspan x="24" dy="12">....-.....-     .+#-++######+++++++++###########-..-.........-----.-.</tspan>
+<tspan x="24" dy="12">  ...  ......    .-#++##########++++############- .............--.....</tspan>
+<tspan x="24" dy="12"> .............     .-##+#########################. .......   ...........</tspan>
+<tspan x="24" dy="12">.......  ....      ..###+#########-..-#########-.            .. .. ..  .</tspan>
+<tspan x="24" dy="12">......   ....      ...-###+####-.-----.+#######..            . ...</tspan>
+<tspan x="24" dy="12">......  ...            -####+#+..------++#####-              . ..</tspan>
+<tspan x="24" dy="12"> ....                    .+#####+...---+#######      .    ....  .</tspan>
+<tspan x="24" dy="12">     .                    .#####+-..--+######             .  ..</tspan>
+<tspan x="24" dy="12">                            -####+...-+#####-      .         .</tspan>
+<tspan x="24" dy="12">                             .####...--+####.  ..  .     .   .</tspan>
+<tspan x="24" dy="12">                              .###..-.--+##-   ...        .</tspan>
+<tspan x="24" dy="12">                               .##...----+#   ..        .   .</tspan>
+<tspan x="24" dy="12">                                -#...------   ...          .</tspan>
+<tspan x="24" dy="12">                                 #-..----.    ....</tspan>
+<tspan x="24" dy="12">                                  +..---..   ....</tspan>
+<tspan x="24" dy="12">                      .....        ...--.      .         .</tspan>
+<tspan x="24" dy="12">                        .....        .....    ..</tspan>
+<tspan x="24" dy="12">                           ...      .....   ..</tspan>
+<tspan x="24" dy="12">                                     ....  ..       ..</tspan>
+<tspan x="24" dy="12">                    -#                  ..            -#+.</tspan>
+<tspan x="24" dy="12">                  -##.                  .            -###+-----</tspan>
+<tspan x="24" dy="12">            .----+###+   -+##                .-++--..   .+#########+.....</tspan>
+<tspan x="24" dy="12">         .+########+..+#####+    ..        . .-++#####++-..--+######....</tspan>
+<tspan x="24" dy="12">       -################++- .#-    ..          .--+++++##############-..</tspan>
+<tspan x="24" dy="12">     -###############+-..-+####-            -+++++-..----++###########-.</tspan>
+<tspan x="24" dy="12">    .############+++#######+++.              .-+###########+++++++++++-</tspan>
+<tspan x="24" dy="12">    -######++++++++###+--...+#+                .-----+++++++++++++++++-.</tspan>
+<tspan x="24" dy="12">    .##+++++++++++++++######+-                  .---++####+++++++++---.</tspan>
+<tspan x="24" dy="12">     ###++++++-----++------.                       .-+++----+++++++-.</tspan>
+<tspan x="24" dy="12">     -+###+-----++++####+-                           .-----+----.</tspan>
+  </text>
+
+  
+  <text class="text" x="505" y="45" xml:space="preserve">
+<tspan x="505" dy="0" class="greeting">Hello There!</tspan>
+<tspan x="505" dy="22" class="bio">Muhannad Mahfouz El-Shahiedy</tspan>
+<tspan x="505" dy="19" class="muted">20 yrs | Computer &amp; Systems Engineering Undergrad</tspan>
+<tspan x="505" dy="19" class="bio">Domain: Embedded Systems &amp; Firmware Engineer</tspan>
+
+<tspan x="505" dy="28" class="greeting">Technical Skills</tspan>
+<tspan x="505" dy="20" class="bio">• Languages: C, C++, Embedded C, Java, Python</tspan>
+<tspan x="505" dy="19" class="bio">• Embedded:  AVR Interfacing, Hardware Automation</tspan>
+<tspan x="505" dy="19" class="bio">• Software:  JavaFX, SQLite, Memory Management</tspan>
+<tspan x="505" dy="19" class="bio">• Analytics: Power BI, Tableau, Excel, MATLAB</tspan>
+<tspan x="505" dy="19" class="bio">• Spoken:    English, Arabic</tspan>
+<tspan x="505" dy="24" class="divider">────────────────────────────────────────────────────────</tspan>
+  </text>
+
+  
+  <text class="text" x="505" y="305" xml:space="preserve">
+<tspan x="505" dy="0" class="proj-header">Muhannad-06 // Achievements &amp; Featured Projects</tspan>
+
+<tspan x="505" dy="28" class="proj-title">├── 🏆 IEEE-CUSB Nightcrawler [1st Place Winner]</tspan>
+<tspan x="505" dy="20" class="proj-detail">│   ├── Dual-Mode PID Line Tracking &amp; Billiard Control</tspan>
+<tspan x="505" dy="19" class="proj-detail">│   └── Checkpoint Logic, L298N Drivers &amp; Servo Cue</tspan>
+
+<tspan x="505" dy="28" class="proj-title">├── 🏆 Telecom-Customer-Churn-BI [1st Place Nationwide]</tspan>
+<tspan x="505" dy="20" class="proj-detail">│   ├── DEPI Capstone: ETL, Data Modeling &amp; DAX</tspan>
+<tspan x="505" dy="19" class="proj-detail">│   └── Churn Risk Metrics &amp; Interactive Power BI</tspan>
+
+<tspan x="505" dy="28" class="proj-title">├── 📂 ATmega32-BareMetal-Drivers</tspan>
+<tspan x="505" dy="20" class="proj-detail">│   ├── MCAL: GPIO, Timers, ADC, UART, SPI, I2C, EXTI</tspan>
+<tspan x="505" dy="19" class="proj-detail">│   └── HAL: LCD (4/8-bit), Keypad, 7-Seg &amp; Sensors</tspan>
+
+<tspan x="505" dy="28" class="proj-title">├── 📂 Cryptos (C-Binary-Archiver-Encryption)</tspan>
+<tspan x="505" dy="20" class="proj-detail">│   ├── Low-Level Binary I/O &amp; Little-Endian Formats</tspan>
+<tspan x="505" dy="19" class="proj-detail">│   └── Custom Container Structure &amp; Encryption CLI</tspan>
+
+<tspan x="505" dy="28" class="proj-title">└── 📂 Digital-Logic-Gate-Simulator</tspan>
+<tspan x="505" dy="20" class="proj-detail">    ├── JavaFX Canvas &amp; Drag-and-Drop Node Graph</tspan>
+<tspan x="505" dy="19" class="proj-detail">    └── Real-Time Propagation &amp; Dynamic Truth Tables</tspan>
+  </text>
+</svg>
